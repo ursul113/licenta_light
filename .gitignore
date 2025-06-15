@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+
+pseudocode/__pycache__/
+pseudocode/*.pyc
+pseudocode/.env
+pseudocode/.vscode/
+pseudocode/.idea/
+
+front/node_modules/
+front/dist/
+front/.env
+front/.vite/
+front/.vscode/
+front/.idea/
